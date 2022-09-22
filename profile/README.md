@@ -14,6 +14,20 @@ Permette di distribuire, modificare, creare opere derivate dall'originale, ma no
 
 - [Dashboard](https://www.notion.so/00afd2533fec4cae9120d119bfb7c9a1?v=332b02dda53744719f961bed09df9116)
 
+## Contribution
+
+Le repository di questa organizzazione usano il seguente [formato convenzionale di commit](https://www.conventionalcommits.org/en/v1.0.0/):
+
+- **build**: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
+- **ci**: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)
+- **docs**: Documentation only changes
+- **feat**: A new feature
+- **fix**: A bug fix
+- **perf**: A code change that improves performance
+- **refactor**: A code change that neither fixes a bug nor adds a feature
+- **style**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
+- **test**: Adding missing tests or correcting existing tests
+
 ## Team
 
 - [Greit](https://github.com/Gr3it)
