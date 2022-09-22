@@ -12,7 +12,7 @@ Permette di distribuire, modificare, creare opere derivate dall'originale, ma no
 
 ## Work dashboard
 
-- [Dashboard](https://www.notion.so/00afd2533fec4cae9120d119bfb7c9a1?v=332b02dda53744719f961bed09df9116)
+- [Dashboard](https://ivy-sailfish-85e.notion.site/00afd2533fec4cae9120d119bfb7c9a1?v=332b02dda53744719f961bed09df9116)
 
 ## Contribution
 
