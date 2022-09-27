@@ -1,4 +1,4 @@
-# Life Planner
+# PlanIt
 
 Life Planner è un applicazione web che permette ai vari utenti di gestire i propri impegni con un calendario automatizzato.
 
